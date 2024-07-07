@@ -13,3 +13,7 @@ this is a personally tailored python script that listens to incoming messages an
 - block anyone dming me for what seems like vc support if no relationship 
 - block anyone sending @here or @everyone with no relationship
 - block any steam scammer
+
+## note 
+
+not finished, current version is solely for my own needs. I need to adapt it and add all above features 
